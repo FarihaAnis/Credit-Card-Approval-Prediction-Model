@@ -15,6 +15,9 @@ To develop a machine learning model that predicts the likelihood of customer def
 - **Utility**: `collections.Counter`
 
 ## Dataset
+
+Source: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/data
+
 The dataset sourced from Kaggle consists of two components:
 - **Application Record**: 438,557 records with 18 features.
 - **Credit Record**: 1,048,575 records with 3 features.
