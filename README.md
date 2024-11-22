@@ -10,7 +10,6 @@ To develop a machine learning model that predicts the likelihood of customer def
 - **Handling Class Imbalance**: `ADASYN` (from `imbalanced-learn`)
 - **Model Development**:
   - **Classification Models**: `LogisticRegression`, `RandomForestClassifier`, `DecisionTreeClassifier`, `XGBClassifier` (from `XGBoost`)
-  - **Feature Selection**: Random Forest feature importance
 - **Model Evaluation**: `accuracy_score`, `f1_score`, `precision_score`, `recall_score`, `confusion_matrix`
 - **Cross-Validation**: `cross_val_score`
 - **Utility**: `collections.Counter`
